@@ -11,7 +11,6 @@
 <a href="https://www.hackerrank.com/fatmasaad313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fatmasaad313" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fatmasaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fatmasaad" height="30" width="40" /></a>
 <a href="https://discord.gg/FatmaSaad#9671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FatmaSaad#9671" height="30" width="40" /></a>
-<a href="fatmasaad313@gmail.com" target="blank"><img align="center" src="#EA4335" alt="FatmaSaad#9671" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
